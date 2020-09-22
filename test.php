@@ -1,7 +1,7 @@
     <?php
 
 
-$con=mysqli_connect("localhost","u946746031_managementap","managementapp","u946746031_managementapp");
+$con=mysqli_connect("database-2.cyudtmnx5n0f.ap-south-1.rds.amazonaws.com","suraj","piedevelopers","mydb");
  echo "Index Page";
 // $pname=$_POST['pname'];
 
